@@ -32,4 +32,12 @@ git push -u 주소 branch
 git push -u origin main
 git remote add 변수명 주소
 
+git stash
+git stash list
+git stash pop
+git stash drop 번호
+git stash clear
+
+
+
 this is test line with staging
