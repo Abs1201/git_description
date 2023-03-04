@@ -32,6 +32,9 @@ git push -u 주소 branch
 git push -u origin main
 git remote add 변수명 주소
 
+git restore 파일명
+git revert 커밋아이디
+
 git stash
 git stash list
 git stash pop
