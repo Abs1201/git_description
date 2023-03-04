@@ -1,9 +1,3 @@
-ccc
-
-
-
-
-
 
 //설명
 작업폴더 --git add--> staging area --git commit-->repository
@@ -36,5 +30,6 @@ git branch -D //delete (not merged)
 
 git push -u 주소 branch
 git push -u origin main
+git remote add 변수명 주소
 
 this is test line with staging
