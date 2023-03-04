@@ -34,6 +34,8 @@ git remote add 변수명 주소
 
 git restore 파일명
 git revert 커밋아이디
+git revert HEAD //최근 commit 취소
+
 
 git stash
 git stash list
